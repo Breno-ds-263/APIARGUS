@@ -53,7 +53,8 @@ public class Ocorrencias {
         DESENTENDIMENTO,
         SOLICITACAO_DE_MANUTENCAO,
         ASSEMBLEIA,
-        DESVIO_DE_CONDUTA
+        DESVIO_DE_CONDUTA,
+        FEEDBACK
     }
 
     public enum StatusAprovacao {
